@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zaryab Khan</h1>
-<h3 align="center">Proficient in developing dynamic and responsive websites using Python, PHP,Laravel, and Flask frameworks, with a focus on optimizing performance and speed. Experienced in researching and building AI tools, products, and Chatbots using OpenAI and Python libraries. Additionally, skilled in developing mobile applications using Java, further expanding my expertise in software development across multiple platforms.</h3>
+<h3 align="center">Proficient in developing dynamic and responsive websites using Python, PHP, Laravel, and Flask frameworks, with a focus on optimizing performance and speed. Experienced in researching and building AI tools, products, and Chatbots using OpenAI and Python libraries. Additionally, skilled in developing mobile applications using Java, further expanding my expertise in software development across multiple platforms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaryabkhan14&label=Profile%20views&color=0e75b6&style=flat" alt="zaryabkhan14" /> </p>
 
