@@ -80,14 +80,8 @@ Passionate about building scalable backend applications, designing efficient dat
 
 ---
 
-## 💡 Developer Quote
+## 💡 Philosophy
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ZaryabKhan14&style=flat&color=0e75b6"/>
+<i>"Great software is built through strong fundamentals, clean architecture, and continuous learning."</i>
 </p>
