@@ -1,29 +1,72 @@
 # Hi 👋, I'm Muhammad Zaryab Khan
 
-An ambitious **Software Developer** and **Backend Engineer** dedicated to designing scalable architectures, optimizing core databases, and engineering intelligent software solutions. With 15 months of professional experience, I focus on building high-performance systems with clean, maintainable code.
+### Software Developer | Backend Developer | BSCS Student @ SZABIST
+
+Building scalable backend applications with Python, PHP, Laravel, Flask, and Java while continuously learning software architecture, databases, and AI.
 
 ---
 
-### 💻 Professional Profile & Stack
+## 👨‍💻 About Me
 
-*   🚀 **Core Engineering:** Backend Systems, Software Architecture, Database Design
-*   🛠️ **Tech Stack:** Python | PHP | Laravel | Flask | Java | MySQL
-*   ⚙️ **DevOps & Tools:** Git | GitHub | Linux | API Integration
-*   📈 **Domain Intersect:** Financial Markets & Data Analytics (Pakistan Stock Exchange Investor)
-
----
-
-### 💼 Focus Area & Career Journey
-
-*   🎓 Pursuing my BSCS degree at **SZABIST**, actively connecting academic theory with production-level code.
-*   🧠 Deepening my expertise in cloud-native technologies, advanced architecture patterns, and Artificial Intelligence integrations.
-*   💼 Open to new opportunities, collaborations, and backend development roles.
+- 🎓 BSCS Student at SZABIST
+- 💼 15 Months of Professional Software Development Experience
+- 💻 Backend Development Enthusiast
+- 🌱 Currently learning Software Architecture, Cloud Computing & AI
+- 📈 Pakistan Stock Exchange Investor
+- 📫 Reach me at: **zaryab2002@hotmail.com**
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+## 🚀 Tech Stack
 
-I am always keen to collaborate on complex backend systems, open-source initiatives, or innovative fintech projects.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-*   💼 **LinkedIn:** [linkedin.com/in/muhammadzaryabkhan](https://linkedin.com/in/muhammadzaryabkhan)
-*   📧 **Email:** zaryab2002@hotmail.com
+### Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaryabKhan14&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ZaryabKhan14&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ZaryabKhan14&theme=tokyonight&margin-w=10)
+
+---
+
+# 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZaryabKhan14&theme=tokyo-night)
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=ZaryabKhan14&style=for-the-badge&color=blue)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/muhammadzaryabkhan
+- 📧 Email: zaryab2002@hotmail.com
