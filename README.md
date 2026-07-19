@@ -1,76 +1,93 @@
-# Hi 👋, I'm Muhammad Zaryab Khan
+<h1 align="center">Hi 👋, I'm Muhammad Zaryab Khan</h1>
 
-### Software Developer | Backend Developer | BSCS Student @ SZABIST
+<h3 align="center">
+💻 Backend Developer | 🐍 Python • ⚙️ Laravel • ☕ Java | 🎓 BSCS Student @ SZABIST
+</h3>
 
-Building scalable backend applications with Python, PHP, Laravel, Flask, and Java while continuously learning software architecture, databases, and AI.
+<p align="center">
+Passionate about building scalable backend applications, designing efficient databases, and solving real-world problems through clean, maintainable code.
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 BSCS Student at SZABIST
-- 💼 15 Months of Professional Software Development Experience
-- 💻 Backend Development Enthusiast
-- 🌱 Currently learning Software Architecture, Cloud Computing & AI
+- 💼 Software Developer with **15 Months of Professional Experience**
+- 🎓 Currently pursuing **BS Computer Science** at **SZABIST**
+- 🚀 Passionate about **Backend Development** and **Software Engineering**
+- 🛠️ Experienced with **Python, PHP, Laravel, Flask, Java & MySQL**
+- 🌱 Currently learning **Software Architecture, Cloud Computing & AI**
 - 📈 Pakistan Stock Exchange Investor
-- 📫 Reach me at: **zaryab2002@hotmail.com**
+- 🤝 Open to **Internships, Freelance & Backend Developer Opportunities**
 
 ---
 
-## 🚀 Tech Stack
+## 🌐 Connect With Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="left">
+<a href="https://linkedin.com/in/muhammadzaryabkhan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
 
-### Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<a href="mailto:zaryab2002@hotmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+# ⚙️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaryabKhan14&show_icons=true&theme=tokyonight&hide_border=true)
+### 💻 Languages
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ZaryabKhan14&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ZaryabKhan14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ---
 
-## 📈 Contribution Graph
+### 🚀 Frameworks
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZaryabKhan14&theme=tokyo-night&hide_border=true)
-
-# 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZaryabKhan14&theme=tokyo-night)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ---
 
-# 👀 Profile Views
+### 🗄️ Database
 
-![](https://komarev.com/ghpvc/?username=ZaryabKhan14&style=for-the-badge&color=blue)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-## 🤝 Connect With Me
+### 🛠️ Tools
 
-- 💼 LinkedIn: https://linkedin.com/in/muhammadzaryabkhan
-- 📧 Email: zaryab2002@hotmail.com
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 💡 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ZaryabKhan14&style=flat&color=0e75b6"/>
+</p>
