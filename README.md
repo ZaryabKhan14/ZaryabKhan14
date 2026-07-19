@@ -1,27 +1,55 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zaryab Khan</h1>
-<h3 align="center">Proficient in developing dynamic and responsive websites using Python, PHP, Laravel, and Flask frameworks, with a focus on optimizing performance and speed. Experienced in researching and building AI tools, products, and Chatbots using OpenAI and Python libraries. Additionally, skilled in developing mobile applications using Java, further expanding my expertise in software development across multiple platforms.</h3>
+# Hi 👋, I'm Muhammad Zaryab Khan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaryabkhan14&label=Profile%20views&color=0e75b6&style=flat" alt="zaryabkhan14" /> </p>
+A passionate **Software Developer** dedicated to designing scalable backend systems, optimizing databases, and engineering intelligent tech solutions. With 15 months of professional experience, I focus on building robust architectures and clean, maintainable code.
 
-- 🔭 I’m currently working on [Supertec](https://github.com/ZaryabKhan14/SupertecLabs-App.git)
+---
 
-- 🌱 I’m currently learning **Flutter**
+### 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZaryabKhan14](https://github.com/ZaryabKhan14)
+- 🔭 I’m currently working as a **Software Developer** at **DIDx.net**
+- 🧠 I’m deeply exploring **Advanced Backend Architectures, Cloud Tech, and AI Systems**
+- 💼 Actively investing and analyzing market dynamics in the **Pakistan Stock Exchange (PSX)**
+- ⚡ Fun fact: I bridges the gap between clean tech infrastructure and financial analytics
 
-- 📫 How to reach me **zaryab2002@hotmail.com**
+---
 
-- 📄 Know about my experiences [https://profile.indeed.com/p/muhammadzaryabk-xt0xk0g](https://profile.indeed.com/p/muhammadzaryabk-xt0xk0g)
+### 🛠️ Languages and Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zaryabkhan14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaryabkhan14" height="30" width="40" /></a>
-<a href="https://fb.com/zaryab khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zaryab khan" height="30" width="40" /></a>
-<a href="https://instagram.com/zaryabkhan2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaryabkhan2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muhammad. zaryab khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammad. zaryab khan" height="30" width="40" /></a>
+#### 💻 Backend & Databases
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaryabKhan14&show_icons=true&theme=tokyonight&count_private=true" alt="Zaryab's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaryabkhan14&show_icons=true&locale=en&layout=compact" alt="zaryabkhan14" /></p>
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/muhammadzaryabkhan" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zaryab2002@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-mailto?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=0078D4" alt="Email" />
+  </a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ZaryabKhan14&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
