@@ -38,21 +38,25 @@ Building scalable backend applications with Python, PHP, Laravel, Flask, and Jav
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaryabKhan14&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaryabKhan14&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ZaryabKhan14&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ZaryabKhan14&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ZaryabKhan14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ZaryabKhan14&theme=tokyonight&margin-w=10)
-
----
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZaryabKhan14&theme=tokyo-night&hide_border=true)
 
 # 📈 Contribution Graph
 
