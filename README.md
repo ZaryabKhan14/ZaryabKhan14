@@ -1,23 +1,59 @@
 # Hi 👋, I'm Muhammad Zaryab Khan
 
-A passionate **Software Developer** dedicated to designing scalable backend systems, optimizing databases, and engineering intelligent tech solutions. With 15 months of professional experience, I focus on building robust architectures and clean, maintainable code.
+An ambitious **Software Developer** and **Backend Engineer** dedicated to designing scalable architectures, optimizing core databases, and engineering intelligent software solutions. With 15 months of professional experience, I focus on building high-performance systems with clean, maintainable code.
 
 ---
 
-### 🚀 About Me
+### 💻 Professional Profile & Stack
 
-- 🔭 I’m currently working as a **Software Developer** at **DIDx.net**
-- 🧠 I’m deeply exploring **Advanced Backend Architectures, Cloud Tech, and AI Systems**
-- 💼 Actively investing and analyzing market dynamics in the **Pakistan Stock Exchange (PSX)**
-- ⚡ Fun fact: I bridges the gap between clean tech infrastructure and financial analytics
+*   🚀 **Core Engineering:** Backend Systems, Software Architecture, Database Design
+*   🛠️ **Tech Stack:** Python, PHP, Laravel, Flask, Java, MySQL
+*   ⚙️ **DevOps & Tools:** Git, GitHub, Linux, API Integration
+*   📈 **Domain Intersect:** Financial Markets & Data Analytics (Pakistan Stock Exchange Investor)
 
 ---
 
-### 🛠️ Languages and Tools
+### 🚀 Technical Toolkit
 
-#### 💻 Backend & Databases
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+#### ⚙️ Backend & Logic
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+#### 🗄️ Databases & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+### 💼 Current Focus & Career Journey
+
+*   🔭 I’m currently driving backend engineering at **DIDx.net** as a Software Developer.
+*   🎓 Pursuing my BSCS degree at **SZABIST**, actively connecting academic theory with production-level code.
+*   🧠 Deepening my expertise in cloud-native technologies, advanced architecture patterns, and Artificial Intelligence integrations.
+
+---
+
+### 🤝 Let's Connect & Collaborate
+
+I am always keen to collaborate on complex backend systems, open-source initiatives, or innovative fintech projects. 
+
+<p align="left">
+  <a href="https://linkedin.com/in/muhammadzaryabkhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zaryab2002@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
