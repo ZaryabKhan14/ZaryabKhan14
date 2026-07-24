@@ -46,10 +46,12 @@ Passionate about building scalable backend applications, designing efficient dat
 
 ---
 
-### 🚀 Frameworks
-
+#### 🚀 Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+
 
 ---
 
@@ -59,11 +61,13 @@ Passionate about building scalable backend applications, designing efficient dat
 
 ---
 
-### 🛠️ Tools
-
+#### 🛠️ Tools & Server
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167FF?style=flat&logo=digitalocean&logoColor=white)
+
 
 ---
 
