@@ -12,13 +12,13 @@ Passionate about building scalable backend applications, designing efficient dat
 
 ## 🧑‍💻 About Me
 
-- 💼 Software Developer with **15 Months of Professional Experience**
-- 🎓 Currently pursuing **BS Computer Science** at **SZABIST**
-- 🚀 Passionate about **Backend Development** and **Software Engineering**
-- 🛠️ Experienced with **Python, PHP, Laravel, Flask, Java & MySQL**
-- 🌱 Currently learning **Software Architecture, Cloud Computing & AI**
-- 📈 Pakistan Stock Exchange Investor
-- 🤝 Open to **Internships, Freelance & Backend Developer Opportunities**
+* 💼 Software Developer with **15 Months of Professional Experience**
+* 🎓 Currently pursuing **BS Computer Science** at **SZABIST**
+* 🚀 Passionate about **Backend Development** and **Software Engineering**
+* 🛠️ Experienced with **Python, PHP, Laravel, Flask, Java & MySQL**
+* 🌱 Currently learning **Software Architecture, Cloud Computing & AI**
+* 📈 Pakistan Stock Exchange Investor
+* 🤝 Open to **Internships, Freelance & Backend Developer Opportunities**
 
 ---
 
@@ -73,22 +73,13 @@ Passionate about building scalable backend applications, designing efficient dat
 
 # 📊 GitHub Statistics
 
-
-
 <p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160"/>
-
-<img src="https://streak-stats.demolab.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
-
-
 <p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Most Used Languages" />
 </p>
 
 
