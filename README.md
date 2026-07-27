@@ -74,12 +74,12 @@ Passionate about building scalable backend applications, designing efficient dat
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://streak-stats.demolab.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Most Used Languages" />
 </p>
 
 ---
