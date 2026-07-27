@@ -82,6 +82,12 @@ Passionate about building scalable backend applications, designing efficient dat
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Most Used Languages" />
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+</p>
+
 ---
 
 ## 💡 Philosophy
