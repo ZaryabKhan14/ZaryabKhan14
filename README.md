@@ -5,7 +5,7 @@
 
   <!-- 1b. Typing SVG animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+15%2B+Months+Exp.;Backend+%26+Scalable+Systems+Architect;BSCS+Student+%40+SZABIST;AI%2FML+%26+Cloud+Computing+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+15%2B+Months+Exp.;Python+%E2%80%A2+Laravel+%E2%80%A2+Java;BSCS+Student+%40+SZABIST;PSX+Investor+%26+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -24,10 +24,10 @@
   <br/><br/>
 
   <!-- 1e-h. Social & Portfolio buttons -->
-  <a href="https://linkedin.com/in/">
+  <a href="https://linkedin.com/in/muhammadzaryabkhan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:zaryabkhan.dev@gmail.com">
+  <a href="mailto:zaryab2002@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ZaryabKhan14">
@@ -50,13 +50,15 @@
 
 ## 2. About Me
 
-I am a driven **Software Developer** with **15 months of professional industry experience**, currently pursuing a Bachelor of Science in Computer Science at **SZABIST**. My primary engineering foundation centers on robust backend development, scalable database architecture, and building production-ready systems.
+I am a passionate **Backend Developer** with **15 months of professional experience**, currently pursuing a **BS in Computer Science at SZABIST**. My focus is on building scalable backend applications, designing efficient databases, and solving real-world problems through clean, maintainable code.
 
-* **Software Engineering Focus:** Specialized in designing clean, modular N-tier architectures, RESTful APIs, and efficient database schemas using Python, PHP, Java, and SQL.
-* **AI & Cloud Exploration:** Deepening domain expertise in Machine Learning, System Design, and Cloud Native deployments.
-* **Product Mindset:** Dedicated to transforming high-level business logic into high-throughput backend infrastructure that scales securely and reliably.
+* 💼 **Professional Experience:** 15 months of backend software development.
+* 🎓 **Academic Base:** Pursuing BS Computer Science at SZABIST.
+* 🛠️ **Core Technologies:** Python, PHP, Laravel, Flask, Django, FastAPI, Java, and MySQL.
+* 🌱 **Current Growth:** Actively learning Software Architecture, Cloud Computing, and AI.
+* 📈 **Interests:** Pakistan Stock Exchange investor with an interest in financial markets.
 
-> **Open To:** Full-time Backend / Software Engineering Roles, AI/ML Engineering Collaboration, High-Impact Open Source Projects.
+> **Open To:** Internships, Freelance Projects & Full-Time Backend Developer Opportunities.
 
 ---
 
@@ -66,22 +68,22 @@ I am a driven **Software Developer** with **15 months of professional industry e
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,java,js,cpp,c,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,php,java,js,html,css" alt="Languages" />
 </p>
 
-### Frontend
+### Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,js" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=laravel,django,flask,fastapi" alt="Frameworks" />
 </p>
 
 ### Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,flask,mysql,postgres" alt="Backend and Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
 </p>
 
-### Cloud, DevOps & Tooling
+### Cloud, Tools & Server
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" alt="Tooling" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,nginx,digitalocean,vscode,postman" alt="Tools and Server" />
 </p>
 
 </div>
@@ -92,9 +94,9 @@ I am a driven **Software Developer** with **15 months of professional industry e
 
 | Domain | Proficiency | Details & Focus |
 | :--- | :---: | :--- |
-| **Applied Machine Learning** | Advanced Beginner | Hands-on data preparation, regression, classification model training with Python ecosystems. |
-| **Core AI Engineering** | Intermediate | Exploration of neural network fundamentals, basic model fine-tuning, and inference APIs. |
-| **System Integration** | Advanced | Integrating AI service pipelines and inference API endpoints into core backend architectures. |
+| **Foundational AI** | Intermediate | Exploring core AI/ML algorithms and python data science integrations. |
+| **Backend AI Integration** | Learning | Connecting machine learning models and inference APIs with web backends. |
+| **System Design** | Advanced Beginner | Studying scalable architectures for processing model workloads efficiently. |
 
 ---
 
@@ -105,18 +107,18 @@ I am a driven **Software Developer** with **15 months of professional industry e
 
 <br/>
 
-Layered N-tier backend architecture designed for modular enterprise inventory lifecycle management, stock movement, and audit trails.
+Layered backend architecture designed for inventory lifecycle tracking, stock updates, and data management.
 
 | Metric | Specification / Detail |
 | :--- | :--- |
-| **Stack** | Python, Flask, MySQL, Bootstrap |
-| **Scale** | Multi-entity relational scheme supporting thousands of inventory SKUs |
-| **Performance** | Optimized indexed queries with low sub-100ms response times |
-| **Security** | Role-based access control (RBAC), parameterized SQL queries |
-| **Impact** | Reduced tracking redundancy by 40% across multi-branch workflows |
+| **Stack** | Python, Flask, MySQL |
+| **Scale** | Multi-entity relational schema tracking SKUs |
+| **Performance** | Sub-100ms response times on database queries |
+| **Security** | Prepared statements and query parameterization |
+| **Impact** | Streamlined stock updates and eliminated inventory discrepancies |
 | **Repository** | [ZaryabKhan14/Inventory_management_system](https://github.com/ZaryabKhan14/Inventory_management_system) |
 
-Detailed engineering implementation following structured MVC/N-tier principles to cleanly separate presentation logic, data processing, and persistence layers.
+Engineered with modular code separation to ensure scalable data updates and seamless relational schema interactions.
 </details>
 
 <details>
@@ -124,32 +126,32 @@ Detailed engineering implementation following structured MVC/N-tier principles t
 
 <br/>
 
-Procedural terminal application managing patient record systems, appointment scheduling, and persistent local file operations.
+Command-line driven application managing patient records, appointment scheduling, and persistent local data storage.
 
 | Metric | Specification / Detail |
 | :--- | :--- |
-| **Stack** | Python, File IO Modules, Data Structures |
-| **Scale** | File-backed record persistence optimized for light-footprint local usage |
-| **Performance** | O(1) in-memory record lookup structures |
-| **Security** | Encrypted local data storage and validated prompt inputs |
-| **Impact** | Fully self-contained offline operational tracking for administrative staff |
+| **Stack** | Python, File I/O |
+| **Scale** | File-backed record operations designed for light offline environments |
+| **Performance** | Immediate local record processing |
+| **Security** | Validated CLI prompt inputs |
+| **Impact** | Zero-dependency patient and staff record management |
 | **Repository** | [ZaryabKhan14/hospital_management_system_python](https://github.com/ZaryabKhan14/hospital_management_system_python) |
 
-Designed using high-efficiency file handling patterns and clean CLI interfaces to maximize execution speed and maintain zero external dependency overhead.
+Built focusing on clean procedural design and robust file handling logic for rapid data management without overhead.
 </details>
 
 ---
 
 ## 6. Experience
 
-### Software Developer
-**Industry Software Firm** | *2025 – Present*
+### Backend Software Developer
+**Software Firm** | *15 Months Experience*
 
-* Architected and maintained scalable backend applications using PHP/Laravel and Python framework stacks.
-* Collaborated on relational database schema designs in MySQL to streamline relational data retrieval and maintain transactional integrity.
-* Integrated third-party REST API interfaces and built secure authentication layers across client-facing products.
+* Developed and maintained scalable backend applications utilizing PHP, Laravel, and Python web frameworks.
+* Designed and optimized relational MySQL databases to ensure efficient data storage and quick retrieval.
+* Built and integrated RESTful APIs, implementing robust backend logic for production services.
 
-`PHP` `Laravel` `Python` `MySQL` `REST APIs` `Git`
+`Python` `Laravel` `PHP` `Flask` `MySQL` `REST APIs` `Git`
 
 ---
 
@@ -159,8 +161,8 @@ Designed using high-efficiency file handling patterns and clean CLI interfaces t
 
 | Recognition | Details |
 | :--- | :--- |
-| **Open Source Contributor** | Active designer and developer of backend templates & utility frameworks on GitHub. |
-| **Academic Excellence** | Pursuing Computer Science degree with continuous focus on Data Structures & Software Design patterns. |
+| **Software Engineer** | Developed production-level backend architectures with 15+ months of field experience. |
+| **PSX Investor** | Active market market investor applying quantitative and structured analytical frameworks. |
 
 </div>
 
@@ -168,14 +170,11 @@ Designed using high-efficiency file handling patterns and clean CLI interfaces t
 
 ## 8. Certifications
 
-### AWS
-* ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(In%20Progress)-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+### Computer Science & Backend
+* ![SZABIST BSCS Degree](https://img.shields.io/badge/SZABIST-BS%20Computer%20Science-483D8B?style=flat-square&logo=education&logoColor=white)
 
-### Oracle
-* ![Oracle Certified Foundations](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-### Cisco
-* ![Cisco Networking Essentials](https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+### Development & Cloud
+* ![Cloud Computing](https://img.shields.io/badge/Cloud-Computing%20%26%20Architecture%20(In%20Progress)-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -204,12 +203,12 @@ Designed using high-efficiency file handling patterns and clean CLI interfaces t
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaryabKhan14&show_icons=true&theme=dark&hide_border=true&title_color=b39ddb&icon_color=9370DB&text_color=c7d5e0&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=dark&hide_border=true&title_color=b39ddb&text_color=c7d5e0&bg_color=0d1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZaryabKhan14&show_icons=true&theme=dark&hide_border=true&title_color=b39ddb&icon_color=9370DB&text_color=c7d5e0&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=dark&hide_border=true&title_color=b39ddb&text_color=c7d5e0&bg_color=0d1117" alt="Top Languages" width="48%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaryabKhan14&theme=dark&hide_border=true&background=0D1117&ring=9370DB&fire=9370DB&currStreakLabel=b39ddb" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=ZaryabKhan14&theme=dark&hide_border=true&background=0D1117&ring=9370DB&fire=9370DB&currStreakLabel=b39ddb" alt="GitHub Streak" width="97%" />
 
 </div>
 
@@ -249,16 +248,16 @@ Designed using high-efficiency file handling patterns and clean CLI interfaces t
 
 ```yaml
 learning:
-  - System Architecture & Distributed Systems
-  - Cloud Computing Concepts
-  - AI / ML Model Integrations
+  - Software Architecture
+  - Cloud Computing
+  - Artificial Intelligence
 building:
-  - Production-grade enterprise backend services
-  - Open-source database design models
+  - Scalable backend architectures
+  - Clean database models with MySQL
 exploring:
-  - Microservices orchestration
-  - High-concurrency system designs
+  - High-performance API design
+  - Stock market analytics integrations
 open_to:
-  - Software Engineering Roles
-  - Backend Development
-  - Open Source Collaboration
+  - Backend Developer Roles
+  - Internships
+  - Freelance Opportunities
