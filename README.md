@@ -75,7 +75,7 @@ Passionate about building scalable backend applications, designing efficient dat
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160" alt="GitHub Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true&v=1" height="160" alt="GitHub Streak" />
 </p>
 
 <p align="center">
