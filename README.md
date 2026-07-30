@@ -7,6 +7,7 @@
 <p align="center">
 Passionate about building scalable backend applications, designing efficient databases, and solving real-world problems through clean, maintainable code.
 </p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -74,12 +75,7 @@ Passionate about building scalable backend applications, designing efficient dat
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
- <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
 <p align="center">
