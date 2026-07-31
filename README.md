@@ -4,6 +4,7 @@
 💻 Backend Developer | 🐍 Python • ⚙️ Laravel • ☕ Java | 🎓 BSCS Student @ SZABIST
 </h3>
 
+
 <p align="center">
 Passionate about building scalable backend applications, designing efficient databases, and solving real-world problems through clean, maintainable code.
 </p>
