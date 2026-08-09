@@ -1,56 +1,102 @@
-# 💻 Backend Developer | 🐍 Python • ⚙️ Laravel • ☕ Java | 🎓 BSCS Student @ SZABIST
+# 👋 Hi, I'm Zaryab Khan
 
-Passionate about building scalable backend applications, designing efficient databases, and solving real-world problems through clean, maintainable code.
+### 💻 Backend Developer | 🐍 Python · ⚙️ Laravel · ☕ Java | 🎓 BSCS @ SZABIST
+
+I’m a Software Developer focused on building **scalable backend systems, clean architectures, efficient databases, and reliable APIs**. I enjoy turning complex requirements into maintainable and production-ready software.
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 💼 Software Developer with **15 Months of Professional Experience**
-* 🎓 Currently pursuing **BS Computer Science** at **SZABIST**
-* 🚀 Passionate about **Backend Development** and **Software Engineering**
-* 🛠️ Experienced with **Python, PHP, Laravel, Flask, Java & MySQL**
-* 🌱 Currently learning **Software Architecture, Cloud Computing & AI**
-* 📈 Pakistan Stock Exchange Investor
-* 🤝 Open to **Internships, Freelance & Backend Developer Opportunities**
+* 💼 **15+ Months** of professional software development experience
+* 🎓 Pursuing **BS Computer Science** at **SZABIST**
+* 🏗️ Focused on **Backend Development & Software Engineering**
+* 🧠 Experienced with **Python, PHP, Laravel, Flask, Java & MySQL**
+* 🏛️ Interested in **Software Architecture, Design Patterns & System Design**
+* ☁️ Currently exploring **Cloud Computing & AI**
+* 📈 Active **Pakistan Stock Exchange Investor**
+* 🤝 Open to **Backend Development, Freelance & Internship Opportunities**
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
-* 💼 **LinkedIn:** [Muhammad Zaryab Khan](https://linkedin.com/in/muhammadzaryabkhan)
-* 📧 **Email:** [zaryab2002@hotmail.com](mailto:zaryab2002@hotmail.com)
-* 💻 **GitHub:** [ZaryabKhan14](https://github.com/ZaryabKhan14)
+<p align="left">
+  <a href="https://linkedin.com/in/muhammadzaryabkhan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:zaryab2002@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ZaryabKhan14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ Technical Stack
 
 ### 💻 Languages
 
-`Python` `PHP` `Java` `SQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,java,mysql" />
+</p>
+
+### 🚀 Frameworks & Architecture
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,flask" />
+</p>
+
+**Architecture & Engineering**
+
+`OOP` · `MVC` · `Repository Pattern` · `Layered Architecture` · `REST APIs` · `Clean Code`
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🛠️ Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,nginx,docker,vscode,postman" />
+</p>
 
 ---
 
-### 🚀 Frameworks & Technologies
+# 🚀 Featured Projects
 
-`Laravel` `Flask` `REST APIs` `OOP` `MVC` `Repository Pattern`
+### 📦 Inventory Management System
 
----
+**Python · OOP · MySQL · Repository Pattern · Layered Architecture**
 
-### 🗄️ Database
+A modular inventory management system built from scratch with a focus on **separation of concerns, maintainability, database integrity, and scalable backend architecture**.
 
-`MySQL` `SQLite`
-
----
-
-### 🛠️ Tools & Development
-
-`Git` `GitHub` `Linux` `Nginx` `VS Code` `PyCharm`
+**Architecture:**
+`Controller → Service → Repository → Database`
 
 ---
 
-# 📊 GitHub Statistics
+### 🏥 Hospital Management System
+
+**Python · OOP · MySQL**
+
+A structured management system developed to practice **object-oriented design, modular architecture, database operations, and maintainable application workflows**.
+
+---
+
+### ⚡ Backend REST APIs
+
+**Laravel · PHP · MySQL · REST**
+
+Backend applications focused on **API development, authentication, database design, validation, middleware, and scalable server-side architecture**.
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaryabKhan14&theme=tokyonight" width="100%" />
@@ -63,36 +109,24 @@ Passionate about building scalable backend applications, designing efficient dat
 
 ---
 
-## 🚀 Featured Projects
+# 🎯 Current Focus
 
-### 📦 Inventory Management System
-
-**Python • OOP • MySQL • Repository Pattern**
-
-A modular inventory management system built with a layered architecture, separating controllers, services, repositories, models, and database operations.
-
-### 🏥 Hospital Management System
-
-**Python • OOP • MySQL**
-
-A structured management system designed around clean object-oriented programming and modular application architecture.
-
-### ⚡ Backend REST APIs
-
-**Laravel • PHP • MySQL**
-
-Backend applications focused on RESTful API development, authentication, database design, and scalable server-side architecture.
+```text
+Backend Engineering    ████████████████████░░
+Software Architecture  ██████████████████░░░░
+System Design          ████████████████░░░░░░
+Cloud Computing        ████████████░░░░░░░░░░
+Artificial Intelligence ██████████░░░░░░░░░░░░
+```
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaryabKhan14&theme=tokyonight" width="100%" />
-</p>
-
----
-
-## 💡 Philosophy
+## 💡 Engineering Philosophy
 
 > **"Great software is built through strong fundamentals, clean architecture, and continuous learning."**
+
+---
+
+<p align="center">
+  <b>Building today. Learning every day. Engineering for tomorrow.</b>
+</p>
