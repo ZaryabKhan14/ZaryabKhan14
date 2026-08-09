@@ -26,8 +26,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=ZaryabKhan14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-salesforce.herokuapp.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://metrics.lecoq.io/ZaryabKhan14?template=classic&config.timezone=Asia%2FKarachi&base=header%2C%20activity%2C%20community%2C%20repositories&theme=tokyonight" height="180" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZaryabKhan14&theme=tokyonight" height="150" alt="GitHub Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=ZaryabKhan14&theme=tokyonight" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
