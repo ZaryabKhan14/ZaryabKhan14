@@ -177,9 +177,13 @@ Backend services focused on building **secure and maintainable RESTful APIs** wi
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true" />
+
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaryabKhan14&theme=tokyonight" width="100%" />
 
@@ -190,6 +194,10 @@ Backend services focused on building **secure and maintainable RESTful APIs** wi
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZaryabKhan14&theme=tokyonight" height="180" />
 
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZaryabKhan14&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
