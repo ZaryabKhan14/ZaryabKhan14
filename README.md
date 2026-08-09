@@ -22,19 +22,12 @@
 ---
 
 ### 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ZaryabKhan14&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="ZaryabKhan14 GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaryabKhan14&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
 </p>
+
 ---
 
 ### 🛠️ Technical Ecosystem
