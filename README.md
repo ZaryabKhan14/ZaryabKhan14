@@ -1,196 +1,98 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zaryab Khan</h1>
-
-
-
-<h3 align="center">
-
-💻 Backend Developer | 🐍 Python • ⚙️ Laravel • ☕ Java | 🎓 BSCS Student @ SZABIST
-
-</h3>
-
-
-
-<p align="center">
+# 💻 Backend Developer | 🐍 Python • ⚙️ Laravel • ☕ Java | 🎓 BSCS Student @ SZABIST
 
 Passionate about building scalable backend applications, designing efficient databases, and solving real-world problems through clean, maintainable code.
 
-</p>
-
-
-
 ---
-
-
 
 ## 🧑‍💻 About Me
 
-
-
 * 💼 Software Developer with **15 Months of Professional Experience**
-
 * 🎓 Currently pursuing **BS Computer Science** at **SZABIST**
-
 * 🚀 Passionate about **Backend Development** and **Software Engineering**
-
 * 🛠️ Experienced with **Python, PHP, Laravel, Flask, Java & MySQL**
-
 * 🌱 Currently learning **Software Architecture, Cloud Computing & AI**
-
 * 📈 Pakistan Stock Exchange Investor
-
 * 🤝 Open to **Internships, Freelance & Backend Developer Opportunities**
 
-
-
 ---
-
-
 
 ## 🌐 Connect With Me
 
-
-
-<p align="left">
-
-<a href="https://linkedin.com/in/muhammadzaryabkhan">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-
-</a>
-
-
-
-<a href="mailto:zaryab2002@hotmail.com">
-
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-
-</a>
-
-</p>
-
-
+* 💼 **LinkedIn:** [Muhammad Zaryab Khan](https://linkedin.com/in/muhammadzaryabkhan)
+* 📧 **Email:** [zaryab2002@hotmail.com](mailto:zaryab2002@hotmail.com)
+* 💻 **GitHub:** [ZaryabKhan14](https://github.com/ZaryabKhan14)
 
 ---
-
-
 
 # ⚙️ Tech Stack
 
-
-
 ### 💻 Languages
 
-
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-
+`Python` `PHP` `Java` `SQL`
 
 ---
 
+### 🚀 Frameworks & Technologies
 
-
-#### 🚀 Frameworks
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
-
-
-
-
+`Laravel` `Flask` `REST APIs` `OOP` `MVC` `Repository Pattern`
 
 ---
-
-
 
 ### 🗄️ Database
 
-
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-
+`MySQL` `SQLite`
 
 ---
 
+### 🛠️ Tools & Development
 
-
-#### 🛠️ Tools & Server
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167FF?style=flat&logo=digitalocean&logoColor=white)
-
-
-
-
+`Git` `GitHub` `Linux` `Nginx` `VS Code` `PyCharm`
 
 ---
-
-
 
 # 📊 GitHub Statistics
 
-
-
 <p align="center">
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZaryabKhan14&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-
-  <img src="https://streak-stats.demolab.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true&v=1" height="160" alt="GitHub Streak" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaryabKhan14&theme=tokyonight" width="100%" />
 </p>
 
-
-
 <p align="center">
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Most Used Languages" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZaryabKhan14&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZaryabKhan14&theme=tokyonight" height="180" />
 </p>
-
-
-
-
-
-
 
 ---
 
+## 🚀 Featured Projects
 
+### 📦 Inventory Management System
+
+**Python • OOP • MySQL • Repository Pattern**
+
+A modular inventory management system built with a layered architecture, separating controllers, services, repositories, models, and database operations.
+
+### 🏥 Hospital Management System
+
+**Python • OOP • MySQL**
+
+A structured management system designed around clean object-oriented programming and modular application architecture.
+
+### ⚡ Backend REST APIs
+
+**Laravel • PHP • MySQL**
+
+Backend applications focused on RESTful API development, authentication, database design, and scalable server-side architecture.
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaryabKhan14&theme=tokyonight" width="100%" />
+</p>
+
+---
 
 ## 💡 Philosophy
 
-
-
-<p align="center">
-
-<i>"Great software is built through strong fundamentals, clean architecture, and continuous learning."</i>
-
-</p>
-
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ZaryabKhan14&style=flat&color=0e75b6"/>
-
-</p>
-
-
-Something went wrong! file an issue at https://git.io/JJmN9Maximum retries exceeded Please add an env variable called PAT_1 with your github token in vercel
+> **"Great software is built through strong fundamentals, clean architecture, and continuous learning."**
