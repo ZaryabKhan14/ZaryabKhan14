@@ -13,8 +13,10 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaryabKhan14&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
 </p>
 
 ---
