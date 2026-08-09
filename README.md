@@ -15,27 +15,21 @@
 ### 🐍 Contribution Grid Snake
 
 <!-- Dynamic Snake Animation Grid -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZaryabKhan14/ZaryabKhan14/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZaryabKhan14/ZaryabKhan14/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ZaryabKhan14/ZaryabKhan14/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZaryabKhan14/ZaryabKhan14/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" onerror="this.src='https://svg.template.workers.dev/snake/ZaryabKhan14'" />
+</p>
 
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ZaryabKhan14?template=classic&config.timezone=Asia%2FKarachi&base=header%2C%20activity%2C%20community%2C%20repositories&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaryabKhan14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZaryabKhan14&theme=tokyonight" height="150" alt="GitHub Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=ZaryabKhan14&theme=tokyonight" height="150" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
 </p>
 
 ---
