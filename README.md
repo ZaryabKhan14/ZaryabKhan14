@@ -1,132 +1,256 @@
-# 👋 Hi, I'm Zaryab Khan
+<div align="center">
 
-### 💻 Backend Developer | 🐍 Python · ⚙️ Laravel · ☕ Java | 🎓 BSCS @ SZABIST
+# 👋 Hey, I'm Zaryab Khan
 
-I’m a Software Developer focused on building **scalable backend systems, clean architectures, efficient databases, and reliable APIs**. I enjoy turning complex requirements into maintainable and production-ready software.
+### 💻 Backend Engineer • Software Developer • BSCS Student
+
+**Building scalable systems. Designing clean architectures. Solving real-world problems.**
+
+<p>
+  <a href="https://github.com/ZaryabKhan14">
+    <img src="https://img.shields.io/badge/GitHub-ZaryabKhan14-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/muhammadzaryabkhan">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Zaryab%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:zaryab2002@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧠 Engineering Profile
+
+I’m a **Software Developer with 15+ months of professional experience**, currently pursuing a **BS in Computer Science at SZABIST**.
+
+My primary focus is **backend engineering** — designing maintainable architectures, building reliable APIs, structuring databases, and developing systems that can evolve without becoming difficult to maintain.
+
+I believe good software isn't just about making something work.
+
+It's about making it **understandable, testable, scalable, and maintainable.**
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 💼 **15+ Months** of professional software development experience
-* 🎓 Pursuing **BS Computer Science** at **SZABIST**
-* 🏗️ Focused on **Backend Development & Software Engineering**
-* 🧠 Experienced with **Python, PHP, Laravel, Flask, Java & MySQL**
-* 🏛️ Interested in **Software Architecture, Design Patterns & System Design**
-* ☁️ Currently exploring **Cloud Computing & AI**
-* 📈 Active **Pakistan Stock Exchange Investor**
-* 🤝 Open to **Backend Development, Freelance & Internship Opportunities**
+|                            |                                                 |
+| -------------------------- | ----------------------------------------------- |
+| 🎓 **Education**           | BS Computer Science — SZABIST                   |
+| 💼 **Experience**          | 15+ Months Professional Experience              |
+| 🎯 **Primary Focus**       | Backend Engineering                             |
+| 🏗️ **Architecture**       | Layered Architecture · MVC · Repository Pattern |
+| 🗄️ **Databases**          | MySQL · SQLite                                  |
+| 🌱 **Currently Exploring** | System Design · Cloud · AI                      |
+| 📈 **Outside Engineering** | Pakistan Stock Exchange                         |
+| 🤝 **Open To**             | Backend · Freelance · Internship Opportunities  |
 
 ---
 
-## 🌐 Let's Connect
+# ⚙️ Engineering Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/muhammadzaryabkhan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:zaryab2002@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ZaryabKhan14">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+### 🐍 Languages & Core
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,php,java,mysql" />
 </p>
+
+`Python` · `PHP` · `Java` · `SQL` · `OOP` · `Data Structures`
 
 ---
 
-# ⚙️ Technical Stack
-
-### 💻 Languages
+### 🚀 Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,java,mysql" />
+<img src="https://skillicons.dev/icons?i=laravel,flask" />
 </p>
 
-### 🚀 Frameworks & Architecture
+`Laravel` · `Flask` · `REST APIs` · `MVC` · `Authentication` · `Middleware`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,flask" />
-</p>
+---
 
-**Architecture & Engineering**
+### 🏛️ Architecture & Engineering
 
-`OOP` · `MVC` · `Repository Pattern` · `Layered Architecture` · `REST APIs` · `Clean Code`
+```text
+┌─────────────────────────────────────────────┐
+│              APPLICATION LAYER              │
+├─────────────────────────────────────────────┤
+│ Controllers → Services → Repositories       │
+├─────────────────────────────────────────────┤
+│              DOMAIN / MODELS                │
+├─────────────────────────────────────────────┤
+│          DATABASE / DATA ACCESS             │
+├─────────────────────────────────────────────┤
+│                MySQL / SQL                  │
+└─────────────────────────────────────────────┘
+```
+
+**Principles I work with:**
+
+`Separation of Concerns` · `Clean Code` · `SOLID` · `DRY` · `Repository Pattern` · `Layered Architecture`
+
+---
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### 🛠️ Tools & Infrastructure
+Database design · Relationships · Joins · Indexing · Transactions · CRUD · Data Integrity
+
+---
+
+### 🛠️ Development Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,nginx,docker,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,docker,vscode,postman" />
 </p>
 
----
-
-# 🚀 Featured Projects
-
-### 📦 Inventory Management System
-
-**Python · OOP · MySQL · Repository Pattern · Layered Architecture**
-
-A modular inventory management system built from scratch with a focus on **separation of concerns, maintainability, database integrity, and scalable backend architecture**.
-
-**Architecture:**
-`Controller → Service → Repository → Database`
+`Git` · `GitHub` · `Linux` · `Nginx` · `Docker` · `VS Code` · `Postman`
 
 ---
 
-### 🏥 Hospital Management System
+# 🚀 Featured Engineering Projects
 
-**Python · OOP · MySQL**
+## 📦 Inventory Management System
 
-A structured management system developed to practice **object-oriented design, modular architecture, database operations, and maintainable application workflows**.
+### `Python` `OOP` `MySQL` `Repository Pattern`
+
+A backend-focused inventory platform engineered from scratch with a strong emphasis on **separation of concerns and maintainable architecture**.
+
+### Architecture
+
+```text
+                    ┌──────────────┐
+                    │    User      │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │  Controller  │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   Service    │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │  Repository  │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    MySQL     │
+                    └──────────────┘
+```
+
+**Key Areas**
+
+* 🔐 Authentication & role-based access
+* 👥 User & role management
+* 📦 Product & category management
+* 🚚 Supplier management
+* 🧾 Purchase & sales workflows
+* 📊 Inventory tracking
+* 🏗️ Layered backend architecture
 
 ---
 
-### ⚡ Backend REST APIs
+## 🏥 Hospital Management System
 
-**Laravel · PHP · MySQL · REST**
+### `Python` `OOP` `MySQL`
 
-Backend applications focused on **API development, authentication, database design, validation, middleware, and scalable server-side architecture**.
+A structured management application focused on applying **object-oriented programming, modular design, database operations, and maintainable application workflows**.
+
+**Engineering Focus**
+
+`OOP` · `Modularity` · `Database Operations` · `Data Management`
+
+---
+
+## ⚡ Backend REST APIs
+
+### `Laravel` `PHP` `MySQL`
+
+Backend services focused on building **secure and maintainable RESTful APIs** with authentication, validation, middleware, database relationships, and structured application architecture.
 
 ---
 
 # 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaryabKhan14&theme=tokyonight" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZaryabKhan14&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZaryabKhan14&theme=tokyonight" height="180" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaryabKhan14&theme=tokyonight" width="100%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZaryabKhan14&theme=tokyonight" height="180" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZaryabKhan14&theme=tokyonight" height="180" />
+
+</div>
 
 ---
 
-# 🎯 Current Focus
+# 🧭 Current Engineering Focus
 
 ```text
-Backend Engineering    ████████████████████░░
-Software Architecture  ██████████████████░░░░
-System Design          ████████████████░░░░░░
-Cloud Computing        ████████████░░░░░░░░░░
-Artificial Intelligence ██████████░░░░░░░░░░░░
+Backend Engineering       ████████████████████░░
+Software Architecture     ██████████████████░░░░
+System Design             ████████████████░░░░░░
+Database Engineering      █████████████████░░░░░
+Cloud Computing           ████████████░░░░░░░░░░
+Artificial Intelligence   ██████████░░░░░░░░░░░░
 ```
+
+### Currently Learning
+
+* 🏛️ Software Architecture
+* 🧩 Design Patterns
+* ☁️ Cloud Computing
+* 🤖 Artificial Intelligence
+* 🧠 System Design
+* 🧪 Testing & Code Quality
 
 ---
 
-## 💡 Engineering Philosophy
+# 📈 Beyond Code
+
+I’m also interested in **financial markets and long-term investing**, particularly the **Pakistan Stock Exchange**.
+
+I enjoy approaching investing with the same mindset I apply to engineering:
+
+> **Research → Analyze → Understand → Make informed decisions.**
+
+---
+
+# 🤝 Let's Build Something
+
+Whether it's a backend system, an API, a database architecture, or an idea that needs to become a real product — I'm always interested in **building, learning, and improving**.
+
+<p align="center">
+
+### 📬 Open to meaningful opportunities
+
+<a href="mailto:zaryab2002@hotmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Engineering Philosophy
 
 > **"Great software is built through strong fundamentals, clean architecture, and continuous learning."**
 
----
+<br>
 
-<p align="center">
-  <b>Building today. Learning every day. Engineering for tomorrow.</b>
-</p>
+**Build. Learn. Refactor. Repeat.**
+
+⭐ *Thanks for visiting my profile.*
+
+</div>
