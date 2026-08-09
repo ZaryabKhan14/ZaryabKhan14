@@ -23,15 +23,14 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Statistics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-anurag-hazra.vercel.app/api?username=ZaryabKhan14&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true&v=1" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaryabKhan14&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-anurag-hazra.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaryabKhan14&theme=tokyonight" width="100%" alt="GitHub Profile Details" />
 </p>
 
 ---
