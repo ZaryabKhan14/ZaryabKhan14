@@ -23,6 +23,19 @@
 
 ---
 
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-anurag-hazra.vercel.app/api?username=ZaryabKhan14&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ZaryabKhan14&theme=tokyonight&hide_border=true&v=1" height="160" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-anurag-hazra.vercel.app/api/top-langs/?username=ZaryabKhan14&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Most Used Languages" />
+</p>
+
+---
+
 ### 🛠️ Technical Ecosystem
 
 | Category | Tech Stack & Tooling |
